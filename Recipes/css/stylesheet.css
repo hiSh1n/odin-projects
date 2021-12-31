@@ -1,1 +1,44 @@
-
+body {
+    background-color:#ef5455; 
+}
+h1 {
+    color: #2B3252;
+    font-weight: bold;
+    text-align: center;
+    font-size: 90px;
+}
+.para {
+    color: white;
+    font-size: 20px;
+    font-family: Times, Times New Roman, serif;
+}
+img {
+    height: auto;
+    width:300px
+}
+.links {
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 30px;
+}
+.sub-head {
+    color: #2B3252;
+    font-family: cursive;
+    font-size: 40px;
+}
+.C-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+    width: 300px;
+}
+ol {
+    list-style-type: disc;
+}
+.instructions {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
